@@ -1,4 +1,6 @@
-# chatGPT 解析文献 2023-04-03## None
+# chatGPT 解析文献 2023-04-03
+
+## None
  - None | 
  - https://www.nature.com/articles/s42256-023-00635-3
  - 作者：[]
